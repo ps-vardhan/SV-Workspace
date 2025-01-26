@@ -20,7 +20,7 @@ public class bubblesort {
 
     static void printer(int arr[]) {
         for (int nums : arr) {
-            System.out.print(nums + " ");
+            System.out.print(nums + " ");               // looping through output values
         }
         System.out.println();
     }

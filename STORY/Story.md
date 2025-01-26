@@ -32,13 +32,14 @@ this in turn helps the individual to grow at an accelerated phase and once the p
 
 
 
+PYTHON JAVA C
 
 Story   -Active
 DSA     -Active
 Tricks  -Active
 Articles-Active
-Supply  -Active
 Linkdin -Semi-Active
 Project -Semi-Active
 Physical-Dormant
 Market  -Dormant
+Supply  -Dormant
