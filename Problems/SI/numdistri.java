@@ -12,7 +12,7 @@ public class numdistri {
         int posi = 0;
         int negi = 0;
         int zero = 0;
-        for (int nums : arr) {                  //increasing count when the required number is encountred
+        for (int nums : arr) {                  
             if (nums > 0) {
                 posi++;
             } else if (nums < 0) {

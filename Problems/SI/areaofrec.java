@@ -7,7 +7,7 @@ public class areaofrec {
         System.out.println("Enter Area and Breadth of rectangle : ");
         long length = sc.nextInt();
         long breadth = sc.nextInt();
-        System.out.println((length * breadth));                     //area of rectangle (lenght*breath)
+        System.out.println((length * breadth));                    
         sc.close();
     }
 }

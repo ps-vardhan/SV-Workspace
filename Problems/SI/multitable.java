@@ -4,7 +4,7 @@ import java.util.Scanner;
 class multitable {
     static void multi(int n){
         for(int i=1;i<=10;i++){
-            System.out.println(n+"*"+i+"="+(i*n));      //multiplication table
+            System.out.println(n+"*"+i+"="+(i*n));      
         }
     }
     public static void main(String[]args){

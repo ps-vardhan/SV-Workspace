@@ -14,10 +14,10 @@ public class oddandevensum {
             arr[i] = sc.nextInt();
         }
         for (int num : arr) {
-            if (num % 2 == 0) {                         //if even encountered it is added evtemp
+            if (num % 2 == 0) {                         
                 evtemp += num;
             } else {
-                odtemp += num;                          //if odd encountered it is added odtemp
+                odtemp += num;                         
             }
         }
         System.out.println(evtemp + " " + odtemp);

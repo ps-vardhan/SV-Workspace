@@ -4,7 +4,7 @@ public class factorial {
     public static int temp = 1;
 
     static void fact(int n) {
-        for (int i = 1; i <= n; i++) {          //if n=5 ans => 5*4*3*2*1
+        for (int i = 1; i <= n; i++) {          
             temp = temp * i;
         }
         System.out.println(temp);

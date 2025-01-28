@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class natnumsum {
     static void counter(int n){
         int temp=0;
-        for(int i=1;i<=n;i++){              //if n=5 => 1+2+3+4+5=15
+        for(int i=1;i<=n;i++){              
             temp+=i;
         }
         System.out.println(temp);

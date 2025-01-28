@@ -13,8 +13,8 @@ public class reversearr {
         }
         System.out.println("The Orginal array: "+Arrays.toString(arr));
         System.out.println("The Reversed Array: ");
-        for(int i=arr.length-1;i>=0;i--){               //arr.length gives length value 
-            System.out.print(arr[i]+" ");               //ex: 1 2 3 =3
+        for(int i=arr.length-1;i>=0;i--){                
+            System.out.print(arr[i]+" ");               
         }
         System.out.println();
         sc.close();
