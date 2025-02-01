@@ -1,8 +1,7 @@
 An Indepth analysis of each concept with an Example of each to be kept in DSA folder assisted with explaniation.  
 
-## Pattern Searching
-
 ## Array Data Structure
+    # Array Functions
 
 ## String in Data Structure
 
@@ -31,9 +30,6 @@ An Indepth analysis of each concept with an Example of each to be kept in DSA fo
         Merge Sort
         Selection Sort
         Quick Sort
-        Heap Sort
-        Cycle Sort
-        3-Way Merge Sort
 
     # Non-Comparision Based:
         Counting Sort
@@ -41,7 +37,6 @@ An Indepth analysis of each concept with an Example of each to be kept in DSA fo
         Bucket Sort
         Tim Sort
         Comb Sort
-        Pigeon-hole Sort
 
     # Hybrid Sorting Algorithms: These are a combination of 2 or more sorts for better efficiency.
 
