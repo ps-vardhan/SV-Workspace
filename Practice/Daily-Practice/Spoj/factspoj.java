@@ -1,3 +1,4 @@
+package Spoj;
 import java.util.Scanner;
 public class factspoj {
     public static void main(String[]args){
