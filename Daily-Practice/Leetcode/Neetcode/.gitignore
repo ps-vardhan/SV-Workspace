@@ -1,0 +1,20 @@
+## Approaches
+217. Contains Duplicate
+    1. Brute Force      -k
+    2. Sorting          -k
+    3. Hash Set         -k
+    4. Hash Set Length  -k
+
+242. Valid Anagram
+    1. Sorting                      -k
+    2. Hash Table                   -k
+    3. frequency counting (Optimal) -k
+
+1. Two Sum
+    1. Brute Force          -k
+    2. Hash Map (Two Pass)  -k
+    3. Hash Map (One Pass)  -k
+
+49. Group Anagrams
+    1. Sorting 
+    2. Hash Table 

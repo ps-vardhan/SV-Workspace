@@ -1,0 +1,7 @@
+##  Unique Problems in Java language
+
+:: GEMS-Programs ::
+sumofelem =  sum of the elements of the given array
+trailzeros = Count the number of trailing 0s in the factorial
+checkanagram = anagram is a rearrangement of the letters of one word to form another word
+sumofpairs = check if there exist a pair of indices i,j s.t. a[i] + a[j] = K and i!=j.
