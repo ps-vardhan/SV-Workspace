@@ -7,7 +7,7 @@ Can they all agree on some temperature, or not? */
 
 import java.util.Scanner;
 
-public class airtemp{
+public class v1{
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here

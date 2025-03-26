@@ -6,7 +6,7 @@ Determine if there is a monopoly in the market or not. */
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class monopolymax{
+public class v7{
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here

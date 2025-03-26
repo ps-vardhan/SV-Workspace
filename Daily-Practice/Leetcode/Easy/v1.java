@@ -1,10 +1,10 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class twosum {
+public class v1 {
     public static void main(String[] args) {
 
-        twosum solution = new twosum();
+        v1 solution = new v1();
 
         int[] nums1 = {2, 7, 11, 15};
         int target1 = 9;

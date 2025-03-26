@@ -7,7 +7,7 @@ Determine the minimum number of candy packets Chef must buy so that he is able t
 
 import java.util.Scanner;
 
-public class chefcandies{
+public class v5{
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here

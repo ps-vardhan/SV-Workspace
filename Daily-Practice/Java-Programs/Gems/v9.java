@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class reverseint{
+public class v9{
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here

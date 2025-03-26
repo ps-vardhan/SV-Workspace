@@ -5,7 +5,7 @@ Determine the final score of the player. */
 
 import java.util.Scanner;
 
-public class dicemax{
+public class v4{
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here

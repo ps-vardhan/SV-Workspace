@@ -1,8 +1,8 @@
-public class validanagram {
+public class v242 {
     public static void main(String []args){
         String str1="racecar";
         String str2="racecar";
-        validanagram gram=new validanagram();
+        v242 gram=new v242();
         if(gram.anagram(str1,str2)){
             System.out.println("True");
         }else{

@@ -4,7 +4,11 @@
 2.Internship
 3.Cgpa - 8.5
 4.Coding
-5.Projects  - Web Based,Backend.
+5.Projects
+    ChatBot
+    WebScrapper
+    optical character recognition 
+    React App with a Node Backend
 6.Certificates
 7.Aplitude & Verbal
 

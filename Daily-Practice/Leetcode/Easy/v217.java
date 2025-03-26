@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class containsduplicate {
+public class v217 {
     /*
 
     public boolean containsDuplicate(int[] nums) {
@@ -53,7 +53,7 @@ public class containsduplicate {
     
     public static void main(String[] args) {
         int nums[]={1,2,3,1};
-        containsduplicate dupli=new containsduplicate();
+        v217 dupli=new v217();
         if(dupli.containsDuplicate(nums)){
             System.out.println("True");
         }else{

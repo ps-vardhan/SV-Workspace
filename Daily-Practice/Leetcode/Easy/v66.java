@@ -1,4 +1,4 @@
-public class plusone {
+public class v66 {
     public int[] plusOne(int[] digits) {
         int n=digits.length;
         for(int i=n-1;i>=0;i++){
@@ -12,19 +12,6 @@ public class plusone {
         int arr[]=new int[digits.length+1];
         arr[0]=1;
         return arr;
-    }
-
-    public static void main(String[] args) {
-        plusone solution = new plusone();
-
-        int[] digits1 = {1, 2, 3};
-        int[] result1 = solution.plusOne(digits1);
-        System.out.print("Result for digits1: ");
-        for (int i : result1) {
-            System.out.print(i + " ");
-        }
-        System.out.println();
-
     }
 }
 

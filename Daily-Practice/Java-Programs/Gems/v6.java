@@ -5,7 +5,7 @@ The program requires 17 bits of memory. This is equivalent to 17/4 =4.25 nibbles
 
 import java.util.Scanner;
 
-public class goodconversion{
+public class v6{
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here
