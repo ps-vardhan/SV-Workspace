@@ -4,6 +4,12 @@
 2.Internship
 3.Cgpa - 8.5
 4.Coding
+    leetcode
+    SI
+    Optional-Anyone Required
+        CodeChef
+        HackerRank
+        Codeforces
 5.Projects
     ChatBot
     WebScrapper
