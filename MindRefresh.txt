@@ -10,11 +10,17 @@
         CodeChef
         HackerRank
         Codeforces
+        
 5.Projects
     ChatBot
     WebScrapper
     optical character recognition 
     React App with a Node Backend
+
 6.Certificates
+    Machine Learning
+    BackEnd-Exam 1Z0-149: Oracle Database Program with PL/SQL
+    Cisco
+
 7.Aplitude & Verbal
 

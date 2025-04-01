@@ -1,14 +1,4 @@
 public class v242 {
-    public static void main(String []args){
-        String str1="racecar";
-        String str2="racecar";
-        v242 gram=new v242();
-        if(gram.anagram(str1,str2)){
-            System.out.println("True");
-        }else{
-            System.out.println("False");
-        }
-    }
 
     /*
     public boolean anagram(String str1,String str2){

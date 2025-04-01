@@ -49,15 +49,4 @@ public class v217 {
     public boolean containsDuplicate(int nums[]){
         return Arrays.stream(nums).distinct().count() < nums.length;
     }
-    
-    
-    public static void main(String[] args) {
-        int nums[]={1,2,3,1};
-        v217 dupli=new v217();
-        if(dupli.containsDuplicate(nums)){
-            System.out.println("True");
-        }else{
-            System.out.println("False");
-        }
-    }
 }
