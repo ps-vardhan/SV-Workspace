@@ -1,6 +1,11 @@
 ## 8-3-25
 
 1.Job - 13-15LPA
+    AIML - ***
+    FullStack - **
+    Devops - *
+    Security - *
+    
 2.Internship
 3.Cgpa - 8.5
 4.Coding
