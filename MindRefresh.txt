@@ -2,7 +2,7 @@
 
 1.Job - 13-15LPA
     AIML - ***
-    FullStack - **
+    FullStack - ***
     Devops - *
     Security - *
     
@@ -18,7 +18,7 @@
         
 5.Projects
     ChatBot
-    WebScrapper
+    WebScrapper                     ---Done
     optical character recognition 
     React App with a Node Backend
 
@@ -29,3 +29,6 @@
 
 7.Aplitude & Verbal
 
+
+codes
+books
